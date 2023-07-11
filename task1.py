@@ -19,7 +19,7 @@ def emulate_browser():
     """This function instantiates the browser"""
 
     options = Options()
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     browser = webdriver.Chrome(
         service=Service(ChromeDriverManager().install()), options=options
     )
