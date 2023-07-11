@@ -1,0 +1,43 @@
+{
+    "scraped_at": "2023-07-11 10:10:23",
+    "address": "18 TREMONT STREET, Boston, MA 02108",
+    "building_name": "18 TREMONT STREET ",
+    "latitude": "42.3587826",
+    "longitude": "-71.05962459999999",
+    "url": "https://bradvisors.com/listings/?propertyId=842304-lease",
+    "transaction_type": "for rent",
+    "sale_stage": "available",
+    "size": "5,072 SF",
+    "building_type": "Office Building",
+    "contacts": [
+        {
+            "name": "Justin Harlow",
+            "telephone": [
+                "tel:+1(617)8509613"
+            ],
+            "email": "jharlow@bradvisors.com"
+        },
+        {
+            "name": "Brian Appelman",
+            "telephone": [
+                "tel:+1(617)8509635",
+                "tel:+1(781)4392451"
+            ],
+            "email": "bappelman@bradvisors.com"
+        }
+    ],
+    "sale_or_rent": "Lease Rate $39.00 SF/yr (Gross)",
+    "brochure_link": [
+        "https://buildout.com/plugins/inventory/842304-lease/view?document=2276401",
+        "https://buildout.com/plugins/inventory/842304-lease/view?document=2276399"
+    ],
+    "spaces": [
+        {
+            "title": "3rd Floor",
+            "size": "5,072 SF",
+            "rent": "$39.00 SF/yr"
+        }
+    ],
+    "country": "us",
+    "language": "en"
+}
